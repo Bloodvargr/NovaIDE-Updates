@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
-  "downloadUrl": "",
-  "releaseNotes": "NovaIDE Update-System eingerichtet."
+  "version": "dev-66",
+  "downloadUrl": "https://github.com/Bloodvargr/NovaIDE-Updates/releases/download/dev-66/NovaIDE-debug.apk",
+  "releaseNotes": "NovaIDE Development #66"
 }
